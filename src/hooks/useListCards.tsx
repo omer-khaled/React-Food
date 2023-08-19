@@ -1,4 +1,4 @@
-import { useEffect, useMemo } from "react";
+import { useEffect } from "react";
 import { AppDispatch, AppSelector } from "../Store/store";
 import {useSelector,useDispatch} from 'react-redux';
 import { mealTypePop } from "../Types/types";
@@ -21,14 +21,12 @@ function useListCards(searchValue:string|null){
             }
         }
     },[dispatch,searchValue]);
-    const searchMap = useMemo(()=>{
-        return (meals)?(meals.map((el:mealTypePop,index:number)=>{
+    const searchMap = (meals)?(meals.map((el:mealTypePop,index:number)=>{
                 return(
                     <Card meal={el} key={el.idMeal} />
                 )
             })
-        ):null
-    },[meals]);
+        ):null;
         return {searchMap,loading};
 }
 export default useListCards;

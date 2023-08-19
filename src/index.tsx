@@ -22,7 +22,7 @@ const root = ReactDOM.createRoot(
 );
 const routers = createBrowserRouter([
   {
-    path:'/',
+    path:'/React-Food/',
     element:<App />,
     errorElement:<ErrorPage />,
     children:[

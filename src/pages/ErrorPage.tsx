@@ -13,7 +13,7 @@ function ErrorPage():ReactElement{
                 </p>
                 <button className="btn" onClick={()=>{
                     // window.location.replace('/');
-                    navigate('/',{replace:true}); 
+                    navigate('/React-Food/',{replace:true}); 
                 }}>go Back</button>
             </div>
     );

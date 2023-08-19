@@ -8,7 +8,7 @@ function Header():ReactElement{
                 <div className="container-fluid">
                     <NavLink className={({isActive}:{isActive:boolean})=>{
                         return (isActive)?"active link-underlinless fs-3":"link-underlinless fs-3";
-                    }}to={"/"}>Food Omer</NavLink>
+                    }}to={"/React-Food/"}>Food Omer</NavLink>
                     <button className="btn btn-primary fs-5 d-lg-none d-block text-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
                         <i className="navbar-toggler-icon" ></i>   
                     </button>

@@ -1,7 +1,7 @@
 {
   "name": "food",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://omer-khaled.github.io/React-Food/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
@@ -27,6 +27,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -48,6 +50,7 @@
     ]
   },
   "devDependencies": {
-    "@types/google-map-react": "^2.1.7"
+    "@types/google-map-react": "^2.1.7",
+    "gh-pages": "^6.0.0"
   }
 }
