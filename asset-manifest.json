@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/omer-khaled/React-Food/static/css/main.f1b8a9e1.css",
+    "main.js": "/omer-khaled/React-Food/static/js/main.e15a827e.js",
+    "static/js/624.3232b6ed.chunk.js": "/omer-khaled/React-Food/static/js/624.3232b6ed.chunk.js",
+    "static/js/191.6d71d39f.chunk.js": "/omer-khaled/React-Food/static/js/191.6d71d39f.chunk.js",
+    "static/js/836.21121a64.chunk.js": "/omer-khaled/React-Food/static/js/836.21121a64.chunk.js",
+    "static/js/766.86051aae.chunk.js": "/omer-khaled/React-Food/static/js/766.86051aae.chunk.js",
+    "static/js/818.a218232d.chunk.js": "/omer-khaled/React-Food/static/js/818.a218232d.chunk.js",
+    "static/js/318.5a31c69f.chunk.js": "/omer-khaled/React-Food/static/js/318.5a31c69f.chunk.js",
+    "static/js/787.3adb45fa.chunk.js": "/omer-khaled/React-Food/static/js/787.3adb45fa.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/omer-khaled/React-Food/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/omer-khaled/React-Food/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/omer-khaled/React-Food/index.html",
+    "main.f1b8a9e1.css.map": "/omer-khaled/React-Food/static/css/main.f1b8a9e1.css.map",
+    "main.e15a827e.js.map": "/omer-khaled/React-Food/static/js/main.e15a827e.js.map",
+    "624.3232b6ed.chunk.js.map": "/omer-khaled/React-Food/static/js/624.3232b6ed.chunk.js.map",
+    "191.6d71d39f.chunk.js.map": "/omer-khaled/React-Food/static/js/191.6d71d39f.chunk.js.map",
+    "836.21121a64.chunk.js.map": "/omer-khaled/React-Food/static/js/836.21121a64.chunk.js.map",
+    "766.86051aae.chunk.js.map": "/omer-khaled/React-Food/static/js/766.86051aae.chunk.js.map",
+    "818.a218232d.chunk.js.map": "/omer-khaled/React-Food/static/js/818.a218232d.chunk.js.map",
+    "318.5a31c69f.chunk.js.map": "/omer-khaled/React-Food/static/js/318.5a31c69f.chunk.js.map",
+    "787.3adb45fa.chunk.js.map": "/omer-khaled/React-Food/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b8a9e1.css",
+    "static/js/main.e15a827e.js"
+  ]
+}
